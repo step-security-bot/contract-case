@@ -4,7 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "version": "0.15.8",
+  "version": "0.16.0",
   "devDependencies": {
     "@tsconfig/node16": "^16.1.2",
     "example-extractor": "^0.0.4",

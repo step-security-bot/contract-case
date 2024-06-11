@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.8.0](https://github.com/case-contract-testing/contract-case/compare/@contract-case/case-connector-v0.7.5...@contract-case/case-connector-v0.8.0) (2024-06-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Split HTTP mock and matchers to their own packages
+
+### Miscellaneous Chores
+
+* Split HTTP mock and matchers to their own packages ([bfc2e4f](https://github.com/case-contract-testing/contract-case/commit/bfc2e4ff2d464899fd8ce63978048e9f1991ff80))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @contract-case/case-core bumped from 0.15.7 to 0.16.0
+    * @contract-case/case-entities-internal bumped from 0.15.7 to 0.16.0
+  * devDependencies
+    * @contract-case/eslint-config-case-maintainer bumped from 0.1.0 to 0.1.1
+
 ## [0.7.5](https://github.com/case-contract-testing/contract-case/compare/@contract-case/case-connector-v0.7.4...@contract-case/case-connector-v0.7.5) (2024-05-16)
 
 

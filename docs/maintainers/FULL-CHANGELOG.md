@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.16.0](https://github.com/case-contract-testing/contract-case/compare/v0.15.8...v0.16.0) (2024-06-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Split HTTP mock and matchers to their own packages
+
+### Miscellaneous Chores
+
+* Split HTTP mock and matchers to their own packages ([bfc2e4f](https://github.com/case-contract-testing/contract-case/commit/bfc2e4ff2d464899fd8ce63978048e9f1991ff80))
+
 ## [0.15.8](https://github.com/case-contract-testing/contract-case/compare/v0.15.7...v0.15.8) (2024-05-16)
 
 

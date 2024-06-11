@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.16.0](https://github.com/case-contract-testing/contract-case/compare/@contract-case/test-equivalence-matchers-v0.15.7...@contract-case/test-equivalence-matchers-v0.16.0) (2024-06-11)
+
+
+### Miscellaneous Chores
+
+* **@contract-case/test-equivalence-matchers:** Synchronize ContractCase versions
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @contract-case/case-core-plugin-http-dsl bumped from ^0.15.7 to ^0.16.0
+    * @contract-case/case-entities-internal bumped from 0.15.7 to 0.16.0
+    * @contract-case/case-plugin-base bumped from 0.15.7 to 0.16.0
+  * devDependencies
+    * @contract-case/eslint-config-case-maintainer bumped from 0.1.0 to 0.1.1
+
 ## [0.15.7](https://github.com/case-contract-testing/contract-case/compare/@contract-case/test-equivalence-matchers-v0.15.6...@contract-case/test-equivalence-matchers-v0.15.7) (2024-05-16)
 
 
